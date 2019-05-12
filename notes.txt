@@ -1,0 +1,1 @@
+Install lombok: https://stackoverflow.com/questions/52780535/lombok-with-spring-tool-suite-4
